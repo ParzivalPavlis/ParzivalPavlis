@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there  
+My name is Pavel Lacina and I am a passionate junior front-end developer from Prague.
+- 🌱 I’m currently learning: React, Sveltekit
+- 📫 How to reach me: lacinapavel04@gmail.com
 
 <!--
 **ParzivalPavlis/ParzivalPavlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
